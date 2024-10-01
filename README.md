@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm Joe, a full-stack software developer with 5 years of experience building bespoke web applications, optimizing performance, collaborating effectively with teams, and providing valuable post-mortem analysis to improve code quality. I’m proficient with React, MobX, TypeScript, SCSS, C#, .NET, and SQL Server.
+I'm Joe, a Senior Full-Stack Software Developer with 6 years of experience building bespoke web applications, optimizing performance, collaborating effectively with teams, and providing valuable post-mortem analysis to improve code quality. I’m proficient with React, MobX, TypeScript, SCSS, C#, .NET, and SQL Server.
 
 I specialize in developing bespoke web applications, and I thrive in collaborative environments where I can contribute my skills to create impactful software. I have experience building comprehensive software solutions from end to end, covering front-end, back-end, and database architecture.
 
