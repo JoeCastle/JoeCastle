@@ -1,12 +1,27 @@
-### Hello!
+## Hi, I'm Joe
 
-I'm Joe, a Senior Full-Stack Software Developer with 7 years of experience building bespoke web applications, optimizing performance, collaborating effectively with teams, and providing valuable post-mortem analysis to improve code quality. I’m proficient with React, MobX, TypeScript, SCSS, C#, .NET, and SQL Server.
+Senior Full-Stack Software Developer with 7+ years of experience building and maintaining production-grade web applications.
 
-I specialize in developing bespoke web applications, and I thrive in collaborative environments where I can contribute my skills to create impactful software. I have experience building comprehensive software solutions from end to end, covering front-end, back-end, and database architecture.
+I specialise in designing and delivering end-to-end systems across frontend, backend, and database layers. My core stack includes React, TypeScript, C#, modern .NET, and SQL Server.
 
-In my work, I prioritize clean code, documentation, testing, user experience and continuous learning, which enables me to deliver high-quality solutions that align with best practices and industry standards.
+### What I do
 
-Beyond coding, I value effective communication and teamwork. I enjoy collaborating with cross-functional teams, bridging the gap between technical and non-technical stakeholders, and turning complex ideas into user-friendly solutions.
+* Build scalable, maintainable web applications from the ground up
+* Design and implement RESTful APIs and data models
+* Improve performance, reliability, and code quality in existing systems
+* Work closely with cross-functional teams to turn requirements into robust solutions
 
-Thanks,\
-Joe
+### How I work
+
+* Strong focus on clean, readable, and testable code
+* Pragmatic approach to architecture and trade-offs
+* Emphasis on user experience and real-world impact
+* Comfortable taking ownership of features from concept to production
+
+### Background
+
+Most of my experience is in bespoke software environments, working across the full stack and contributing to both technical direction and delivery.
+
+---
+
+Always open to learning, improving, and building better systems.
